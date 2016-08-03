@@ -1,0 +1,9 @@
+c:\users\harvey\documents\visual studio 2015\Projects\somedgvblackcrp2\somedgvblackcrp2\bin\Debug\somedgvblackcrp2.exe.config
+c:\users\harvey\documents\visual studio 2015\Projects\somedgvblackcrp2\somedgvblackcrp2\bin\Debug\somedgvblackcrp2.exe
+c:\users\harvey\documents\visual studio 2015\Projects\somedgvblackcrp2\somedgvblackcrp2\bin\Debug\somedgvblackcrp2.pdb
+c:\users\harvey\documents\visual studio 2015\Projects\somedgvblackcrp2\somedgvblackcrp2\obj\Debug\somedgvblackcrp2.Form1.resources
+c:\users\harvey\documents\visual studio 2015\Projects\somedgvblackcrp2\somedgvblackcrp2\obj\Debug\somedgvblackcrp2.Properties.Resources.resources
+c:\users\harvey\documents\visual studio 2015\Projects\somedgvblackcrp2\somedgvblackcrp2\obj\Debug\somedgvblackcrp2.csproj.GenerateResource.Cache
+c:\users\harvey\documents\visual studio 2015\Projects\somedgvblackcrp2\somedgvblackcrp2\obj\Debug\somedgvblackcrp2.exe
+c:\users\harvey\documents\visual studio 2015\Projects\somedgvblackcrp2\somedgvblackcrp2\obj\Debug\somedgvblackcrp2.pdb
+c:\users\harvey\documents\visual studio 2015\Projects\somedgvblackcrp2\somedgvblackcrp2\obj\Debug\somedgvblackcrp2.csprojResolveAssemblyReference.cache
